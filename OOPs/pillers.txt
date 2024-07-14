@@ -1,0 +1,18 @@
+Abstraction:
+    Hiding the implementation details of a class and only showing the essential features to the user.
+
+Encapsulation:
+    Wrapping data and functions into a single unit(object)
+
+Inheritance: 
+    When one class (child/derived) derives the properties & methods of another class(parent/base).
+
+Types of Inheritance:
+
+1. single Inheritance ---> one parent class and one child class
+2. multilevel Inheritance ---> parent then child then subchild then supersubchild and so on
+3. multiple Inheritance ----> many parent one child
+
+Polymorphism:
+    One name different forms meaning one method can be overload to do different tasks 
+    
